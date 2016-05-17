@@ -1,3 +1,6 @@
+
+
+
 .clear {
 	
 	clear: both;
@@ -39,6 +42,8 @@ links a {
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+	font-family: 'armalite_rifleregular', sans-serif;
+	font-weight: bold;
 }
 
 header {
@@ -47,4 +52,14 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'armalite_rifleregular', sans-serif;
+  font-weight:bold;
+  font-size:48px;
+}
+
+h2 {
+  font-family: 'armalite_rifleregular', sans-serif;
 }
